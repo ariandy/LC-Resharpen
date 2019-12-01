@@ -49,3 +49,11 @@ aac
 (λo.(λx.z)o(Яo))
 (λo.z((λx.a)o))
 λo.za
+
+(λxyz.xz(yz))(λx.z)(λx.a)
+(λjkl.jl(kl))(λx.z)(λx.a)
+(λj.λk.λl.jl(kl))(λx.z)(λx.a)
+(λk.λl.(λx.z)l(kl))(λx.a)
+(λk.λl.z(kl))(λx.a)
+(λl.z((λx.a)l))
+λl.za
