@@ -39,3 +39,13 @@ yy
 (λb.ba)(λb.ba)c
 ((λb.ba)a)c
 aac
+
+(λxyz.xz(yz))(λx.z)(λx.a)
+(λxyz.xz(yz)) Ж Я
+(λmno.mo(no)) Ж Я
+(λm.λn.λo.mo(no)) Ж Я
+(λn.λo.Жo(no)) Я
+(λo.Жo(Яo))
+(λo.(λx.z)o(Яo))
+(λo.z((λx.a)o))
+λo.za
